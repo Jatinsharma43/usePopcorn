@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# usePopcorn
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+usePopcorn is a user-friendly React-based application designed for movie and show enthusiasts. It allows users to effortlessly search for their favorite films and television series, providing detailed information such as ratings, descriptions, and genres. With a sleek interface and intuitive navigation, users can easily save their favorite titles to a personal list, making it simple to keep track of what to watch next. The application leverages various APIs to fetch real-time data, ensuring that users have access to the latest information about their favorite entertainment options.
 
-## Available Scripts
+## How to Use
 
-In the project directory, you can run:
+After installation, run `npm start` to launch the application in your browser.
 
-### `npm start`
+## Functionality
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Users can search for movies and shows.
+- Users can save their favorite movies and shows to a personal list.
+- The application provides detailed information about each movie/show, including ratings and descriptions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech Stack
 
-### `npm test`
+This project is built using:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- HOOKS
+- HTML
+- CSS
 
-### `npm run build`
+## Cloning and Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To clone and install the repository, run the following commands:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+git clone https://github.com/Jatinsharma43/usePopcorn.git
+cd 07
+npm run
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+![Screenshot of the application](public/r1.png)
+![Screenshot of the application](public/r2.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Learnings
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Through this project, I learned about state management in React, how to work with APIs, and the importance of user experience in application design.
